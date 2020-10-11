@@ -1,3 +1,4 @@
 # test_DS
 
-#chicen weights analysis 
+#building my first profile to explore video games sales.
+
